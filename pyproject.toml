@@ -1,6 +1,5 @@
-[build-system]
-build-backend = "hatchling.build"
-requires = ["hatchling==0.25.1", "hatch-vcs==0.2.1"]
+
+
 
 [project]
 name = "pipdeptree"
